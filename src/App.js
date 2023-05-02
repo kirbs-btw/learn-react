@@ -4,11 +4,16 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <div class = "devider-section-top">
         <p>
           Hello World 
         </p>
-      </header>
+      </div>
+      <div class = "devider-section-bottom">
+        <p>
+          hello 2
+        </p>
+      </div>
     </div>
   );
 }
